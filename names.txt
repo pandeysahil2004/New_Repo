@@ -1,0 +1,6 @@
+Sahil Pandey 
+SAHIL KUMAR PANDEY
+!q
+usr/bin/bash: line 1: q: command not found
+git status 
+
